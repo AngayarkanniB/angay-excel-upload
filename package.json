@@ -1,0 +1,27 @@
+{
+  "name": "@angay/excel-upload",
+  "version": "0.0.7",
+  "description": "Angular library for uploading and reading Excel files (.xlsx, .xls).",
+  "author": "Angay",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AngayarkanniB/angay-excel-upload.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@angay/excel-upload",
+  "bugs": {
+    "url": "https://github.com/AngayarkanniB/angay-excel-upload/issues"
+  },
+  "peerDependencies": {
+    "@angular/common": "^17.0.0",
+    "@angular/core": "^17.0.0",
+    "xlsx": "^0.18.5"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "devDependencies": {
+    "@types/xlsx": "^0.0.35"
+  },
+  "sideEffects": false
+}
